@@ -246,3 +246,17 @@ D, [2014-10-23T00:43:28.523479 #4658] DEBUG -- : REQUESTING PAGE: POST /ingresar
 D, [2014-10-23T00:45:18.829634 #4667] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
 D, [2014-10-23T00:45:18.845265 #4667] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
 D, [2014-10-23T00:45:18.851551 #4667] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T00:47:34.192613 #4680] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T00:47:34.208230 #4680] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T00:47:34.214948 #4680] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T00:48:42.386933 #4686] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T00:48:42.402310 #4686] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T00:48:42.405621 #4686] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T00:50:12.436577 #4693] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T00:50:12.452499 #4693] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T00:50:12.459017 #4693] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T00:51:08.482396 #4696] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T00:51:08.499489 #4696] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T00:51:08.506092 #4696] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T00:51:08.511013 #4696] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/ingresar_nombres"}
+D, [2014-10-23T00:51:08.513537 #4696] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/anota_uno"}

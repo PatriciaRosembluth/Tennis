@@ -1,4 +1,3 @@
-
 <form name="verJuego" action="/anota_uno" method="post">
 <p align="left">Jugador1</p>
 <%= @nombre_uno %>
@@ -6,5 +5,13 @@
 <p align="left">Puntaje</p>
 <%= @puntos_uno %>
 <br>
-<input type="submit" value="Anota">
+<input type="submit" value="Anotar">
+
+<p align="left">Jugador2</p>
+<%= @nombre_dos %>
+<br>
+<p align="left">Puntaje</p>
+<%= @puntos_dos %>
+<br>
+<input type="submit" value="Anotar">
 </form>
