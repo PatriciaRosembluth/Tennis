@@ -421,3 +421,77 @@ D, [2014-10-23T02:52:01.983382 #5521] DEBUG -- : REQUESTING PAGE: GET verJuego w
 D, [2014-10-23T02:52:01.985196 #5521] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
 D, [2014-10-23T02:52:01.987105 #5521] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
 D, [2014-10-23T02:52:01.988952 #5521] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:56:53.465916 #5560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T02:56:53.482028 #5560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T02:56:53.488374 #5560] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T02:56:53.493032 #5560] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/ingresar_nombres"}
+D, [2014-10-23T02:56:53.495543 #5560] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/anota_uno"}
+D, [2014-10-23T02:56:53.498607 #5560] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:56:53.500974 #5560] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:56:53.503176 #5560] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:56:53.505031 #5560] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:56:53.506844 #5560] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:56:53.508582 #5560] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:57:16.761707 #5564] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T02:57:16.777833 #5564] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T02:57:16.784132 #5564] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T02:57:16.788948 #5564] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/ingresar_nombres"}
+D, [2014-10-23T02:57:16.791364 #5564] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/anota_uno"}
+D, [2014-10-23T02:57:16.794441 #5564] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:57:16.796808 #5564] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:57:16.798734 #5564] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:57:16.800637 #5564] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:57:16.803020 #5564] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:57:16.804944 #5564] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:22.694817 #5567] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T02:58:22.711326 #5567] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T02:58:22.717670 #5567] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T02:58:22.722493 #5567] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/ingresar_nombres"}
+D, [2014-10-23T02:58:22.724974 #5567] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/anota_uno"}
+D, [2014-10-23T02:58:22.728338 #5567] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:22.730794 #5567] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:22.732675 #5567] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:22.734618 #5567] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:22.736473 #5567] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:22.738231 #5567] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:35.716453 #5569] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T02:58:35.732792 #5569] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T02:58:35.739004 #5569] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T02:58:35.743840 #5569] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/ingresar_nombres"}
+D, [2014-10-23T02:58:35.746401 #5569] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/anota_uno"}
+D, [2014-10-23T02:58:35.749500 #5569] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:35.751876 #5569] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:35.753704 #5569] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:35.755410 #5569] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:35.757268 #5569] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T02:58:35.759065 #5569] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:00:23.026120 #5578] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T03:00:23.042200 #5578] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T03:00:23.048441 #5578] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T03:00:23.052806 #5578] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/ingresar_nombres"}
+D, [2014-10-23T03:00:23.055151 #5578] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/anota_uno"}
+D, [2014-10-23T03:00:23.058339 #5578] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:00:23.060530 #5578] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:00:23.062361 #5578] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:00:23.064142 #5578] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:00:23.065967 #5578] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:09:51.920228 #5697] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T03:09:51.937645 #5697] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T03:09:51.944078 #5697] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T03:09:51.949670 #5697] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/ingresar_nombres"}
+D, [2014-10-23T03:09:51.952681 #5697] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/anota_uno"}
+D, [2014-10-23T03:09:51.955758 #5697] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:09:51.958196 #5697] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:09:51.960302 #5697] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:09:51.962277 #5697] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:09:51.964201 #5697] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:52:31.862771 #5951] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T03:52:31.878853 #5951] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-23T03:52:31.885078 #5951] DEBUG -- : REQUESTING PAGE: POST /ingresar_nombres with {"nombre_uno"=>"", "nombre_dos"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-23T03:52:31.889455 #5951] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/ingresar_nombres"}
+D, [2014-10-23T03:52:31.891711 #5951] DEBUG -- : REQUESTING PAGE: POST /anota_uno with {} and HTTP headers {"HTTP_REFERER"=>"/anota_uno"}
+D, [2014-10-23T03:52:31.894673 #5951] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:52:31.896923 #5951] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:52:31.898722 #5951] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:52:31.900432 #5951] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}
+D, [2014-10-23T03:52:31.902271 #5951] DEBUG -- : REQUESTING PAGE: GET verJuego with {} and HTTP headers {}

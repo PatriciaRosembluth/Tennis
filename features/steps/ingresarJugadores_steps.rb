@@ -3,8 +3,8 @@ Given(/^me encuentro en la pagina principal$/) do
 end
 
 Given(/^introduzco el valor "(.*?)" y el valor "(.*?)"$/) do |nombre_uno, nombre_dos|
-  @nombre_uno = nombre_uno
-  @nombre_dos = nombre_dos
+  $nombre_uno = nombre_uno
+  $nombre_dos = nombre_dos
 end
 
 When(/^presiono el boton "(.*?)"$/) do |boton|

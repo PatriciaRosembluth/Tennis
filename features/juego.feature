@@ -20,6 +20,4 @@ Feature: Puntuacion
 		Given dado que me encuentro en el juego y un jugador anota un punto
 		Then deberia ver  30 40
 
-	Scenario: Un jugador marca el sexto punto y empata
-		Given dado que me encuentro en el juego y un jugador anota un punto
-		Then deberia ver  40 40  
+	

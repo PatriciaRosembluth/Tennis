@@ -1,18 +1,20 @@
 <form name="verJuego" action="/anota_uno" method="post">
 <p align="left">Jugador1</p>
-<%= @nombre_uno %>
+<%= $nombre_uno %>
 <br>
 <p align="left">Puntaje</p>
-<%= @puntos_uno %>
-<br>
-<input type="submit" value="Anotar">
-
-<form name="verJuego" action="/anota_dos" method="post">
-<p align="left">Jugador2</p>
-<%= @nombre_dos %>
-<br>
-<p align="left">Puntaje</p>
-<%= @puntos_dos %>
+<%= $puntos_uno %>
 <br>
 <input type="submit" value="Anotar">
 </form>
+
+<form name="verJuego" action="/anota_dos" method="post">
+<p align="left">Jugador2</p>
+<%= $nombre_dos %>
+<br>
+<p align="left">Puntaje</p>
+<%= $puntos_dos %>
+<br>
+<input type="submit" value="Anotar">
+</form>
+
